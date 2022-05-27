@@ -1,7 +1,6 @@
 #### Hi there, my name is Rio Dwi Syahputra, nice to meet ya
 
 # 💫About Me :
-About Me
 - Currently Learning to be Frontend Dev
 - Loves to watching Anime and Listening Music
 - Familiar with HTML, CSS, Bootstrap
